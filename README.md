@@ -1,6 +1,6 @@
 Hello World
 
-https://beisixiong.github.io/beisixiong0815/
+https://beisixiong.github.io/bx0815/
 
 This is my first personal website.
 
